@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Each line of a stack trace is called a stack element
+  - text: The order of stack trace elements is vital
+  - text: A stack trace doesn't show any information about exceptions
+  - text: The lowest method call is that of the main() function
+files:
+  - name: src/main/Main.kt
+    visible: true
+    text: |+
+      // You can experiment here, it won’t be checked
+    
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20654#comment
+status: Solved
+record: -1
+custom_name: What do you know about a stack trace?
+local_check: false

@@ -1,0 +1,4 @@
+#Sun Sep 08 17:57:01 MSK 2024
+base.0=C\:\\Users\\Bourbon\\AndroidStudioProjects\\Simple Bank Manager\\Simple Bank Manager\\task\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

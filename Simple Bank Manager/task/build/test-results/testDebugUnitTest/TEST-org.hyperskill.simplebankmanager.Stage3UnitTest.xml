@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.simplebankmanager.Stage3UnitTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2024-09-08T14:57:10" hostname="DESKTOP-4UTSA8I" time="1.752">
+  <properties/>
+  <testcase name="test00_checkNavigationOnViewBalanceButtonClick" classname="org.hyperskill.simplebankmanager.Stage3UnitTest" time="0.142"/>
+  <testcase name="test01_checkViewBalanceDefaultValues" classname="org.hyperskill.simplebankmanager.Stage3UnitTest" time="0.152"/>
+  <testcase name="test02_checkViewBalanceCustomValues" classname="org.hyperskill.simplebankmanager.Stage3UnitTest" time="0.112"/>
+  <testcase name="test03_checkNavigationOnTransferFundsClick" classname="org.hyperskill.simplebankmanager.Stage3UnitTest" time="0.154"/>
+  <testcase name="test04_checkEmptyAmountTransferError" classname="org.hyperskill.simplebankmanager.Stage3UnitTest" time="0.127"/>
+  <testcase name="test05_checkZeroAmountTransferError" classname="org.hyperskill.simplebankmanager.Stage3UnitTest" time="0.181"/>
+  <testcase name="test06_checkEmptyAccountTransferError" classname="org.hyperskill.simplebankmanager.Stage3UnitTest" time="0.141"/>
+  <testcase name="test07_checkIncorrectAccountTransferError" classname="org.hyperskill.simplebankmanager.Stage3UnitTest" time="0.191"/>
+  <testcase name="test08_checkInsufficientFundsToastWithDefaultBalance" classname="org.hyperskill.simplebankmanager.Stage3UnitTest" time="0.149"/>
+  <testcase name="test09_checkInsufficientFundsToastWithCustomBalance" classname="org.hyperskill.simplebankmanager.Stage3UnitTest" time="0.131"/>
+  <testcase name="test10_checkSuccessfulTransferToastMessageAndReturnToUserMenu" classname="org.hyperskill.simplebankmanager.Stage3UnitTest" time="0.127"/>
+  <testcase name="test11_checkUnsuccessfulTransferAfterSuccessfulTransfer" classname="org.hyperskill.simplebankmanager.Stage3UnitTest" time="0.143"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

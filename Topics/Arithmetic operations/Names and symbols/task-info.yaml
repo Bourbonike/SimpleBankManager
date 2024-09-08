@@ -1,0 +1,32 @@
+type: matching
+captions:
+  - +
+  - '-'
+  - '*'
+  - /
+  - '%'
+  - ^
+options:
+  - no such operation
+  - modulus
+  - addition
+  - multiplication
+  - subtraction
+  - integer division
+files:
+  - name: src/main/Main.kt
+    visible: true
+    text: |+
+      // You can experiment here, it won’t be checked
+    
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4492#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5

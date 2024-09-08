@@ -1,0 +1,16 @@
+type: code
+files:
+  - name: src/main/Main.kt
+    visible: true
+    text: "import java.util.*\n\nfun main(args: Array<String>) {\n    // Create a Scanner\
+    \ object for taking input.\n    val reader = Scanner(System.`in`)\n\n    // Get\
+    \ the user input.\n    val number = reader.next()\n\n    // Convert the input\
+    \ to an Integer and calculate its square inside a try-catch block.\n    try {\n\
+    \n        // TODO: Convert input to integer and calculate its square.\n\n    }\
+    \ \n    catch(e: Exception) {\n\n        // TODO: Handle the exception.\n\n  \
+    \  }\n}"
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/44064#comment
+status: Unchecked
+record: -1
+submission_language: kotlin

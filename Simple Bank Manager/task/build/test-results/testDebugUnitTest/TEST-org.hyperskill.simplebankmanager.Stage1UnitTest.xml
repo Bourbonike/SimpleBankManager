@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.simplebankmanager.Stage1UnitTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-09-08T14:57:05" hostname="DESKTOP-4UTSA8I" time="4.706">
+  <properties/>
+  <testcase name="test00_checkLoginFragmentHasViews" classname="org.hyperskill.simplebankmanager.Stage1UnitTest" time="3.747"/>
+  <testcase name="test01_checkLoginWithDefaultValuesSucceed" classname="org.hyperskill.simplebankmanager.Stage1UnitTest" time="0.287"/>
+  <testcase name="test02_checkLoginWithDefaultValuesFailWithWrongName" classname="org.hyperskill.simplebankmanager.Stage1UnitTest" time="0.167"/>
+  <testcase name="test03_checkLoginWithDefaultValuesFailWithWrongPass" classname="org.hyperskill.simplebankmanager.Stage1UnitTest" time="0.117"/>
+  <testcase name="test04_checkLoginWithCustomValuesSucceed" classname="org.hyperskill.simplebankmanager.Stage1UnitTest" time="0.147"/>
+  <testcase name="test05_checkLoginWithCustomValuesFailWithWrongName" classname="org.hyperskill.simplebankmanager.Stage1UnitTest" time="0.11"/>
+  <testcase name="test06_checkLoginWithCustomValuesFailWithWrongPass" classname="org.hyperskill.simplebankmanager.Stage1UnitTest" time="0.129"/>
+  <system-out><![CDATA[Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+resources.arsc in APK 'C:\Users\Bourbon\.m2\repository\org\robolectric\android-all-instrumented\10-robolectric-5803371-i3\android-all-instrumented-10-robolectric-5803371-i3.jar' is compressed.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

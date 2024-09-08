@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: It's an unexpected event which occurs during the execution of a program
+  - text: It's a special class for error handling
+  - text: It's an event which can't be fixed
+files:
+  - name: src/main/Main.kt
+    visible: true
+    text: |+
+      // You can experiment here, it won’t be checked
+    
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20652#comment
+status: Solved
+record: -1
+custom_name: What is an exception?
+local_check: false

@@ -1,0 +1,20 @@
+type: code
+files:
+  - name: src/main/Main.kt
+    visible: true
+    text: |-
+      import java.lang.NumberFormatException
+      
+      fun main(args: Array<String>) {
+          val strNumber = readLine()!!
+          // Write your code here to parse the strNumber to an integer.
+          // Use a try-catch block.
+          // If it is successful, print 'Operation successful'.
+          // If a NumberFormatException is thrown, print 'Operation failed: Non-numeric string'.
+          // For any other exceptions that might occur, print 'Operation failed: Unexpected error'.
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/41210#comment
+status: Solved
+record: -1
+submission_language: kotlin
